@@ -1,10 +1,3 @@
-# 启动教程
-
-- 项目录屏：https://www.bilibili.com/video/BV1Dc411x7ne
-- 启动教程：https://www.bilibili.com/video/BV1pW4y1P7GR
-- 安装包在视频详情中已提供。
-
-
 # 项目简介
 基于Vue.js和SpringBoot的教师工作量管理系统，分为管理后台和用户网页端，可以给管理员和教师角色使用，包括教师管理模块、课程信息模块、课程分类模块、工作量管理模块、系统公告模块和系统基础模块，项目编号T043。
 
